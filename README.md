@@ -1,2 +1,3 @@
-# Quarter3---FA2
-Computer Science 3 Q3 FA 2
+- This is a Laboratory Activity on modules 8-9.
+- The topic/s covered in this activity is/are basic javascript & functions
+- https://github.com/EoanElijahMAblas/Quarter3-FA2
